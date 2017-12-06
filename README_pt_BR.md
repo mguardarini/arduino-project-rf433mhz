@@ -33,14 +33,18 @@ Utilizei a biblioteca VirtualWire para facilitar a implementação do ** Módulo
 - 2 - Protoboard;
 - 1 - Módulo transmissor-receptor RF 433Mhz;
 - 2 - Bateria 9V (Opcional);
-- 2 - Adpters to battery (Opcional);
-- 1 - Resistência de 220 Ohms;
+- 2 - Adaptador de Bateria (Opcional);
+- 1 - Resistor de 220 Ohms;
 - 1 - LED PTH
 - 12 - Jumpers;
 
 ### RF433mhz Module
 
 Você encontra as informações que você precisa sobre o módulo RF433Mhz clicando [aqui](https://www.filipeflop.com/produto/modulo-rf-transmissor-receptor-433mhz-am/)
+
+**Exemplo de Esquema de Ligação.**
+
+![](images/image.jpg)
 
 ### Créditos para este projeto
 
@@ -50,6 +54,7 @@ Este projeto é o resultado de um esforço de cooperação global por parte de m
  - Prof. Carlos Fabri
  - Gabriel Novaes Pessigello
  - [Marcos Moura](https://www.linkedin.com/in/marcos-moura-22238b105)
+ - Daniel Fontana (Revisão do Inglês)
 
 ### Referências ###
 
