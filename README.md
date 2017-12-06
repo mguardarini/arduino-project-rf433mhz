@@ -34,8 +34,8 @@ I used that library to facilitate the implementation of the **RF 433Mhz transmit
 - 1 - RF 433Mhz transmitter-receiver Module;
 - 2 - Battery 9V (Optional);
 - 2 - Battery adapters (Optional);
-- 1 - Resistor of 220 Ohms;
-- 1 - LED PTH
+- 1 - Resistor of 220 Ohms (Optional);
+- 1 - LED PTH (Optional)
 - 12 - Jumpers;
 
 ### RF433mhz Module
