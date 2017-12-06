@@ -50,22 +50,15 @@ Você encontra as informações que você precisa sobre o módulo RF433Mhz clica
 
 Este projeto é o resultado de um esforço de cooperação global por parte de muitos parceiros, por exemplo:
 
-  - Google
- 
-  - Prof. Carlos Fabri
- 
-  - Gabriel Novaes Pessigello
- 
-  - [Marcos Moura](https://www.linkedin.com/in/marcos-moura-22238b105)
- 
-  - Daniel Fontana (Revisão do Inglês)
+- Google
+- Prof. Carlos Fabri
+- Gabriel Novaes Pessigello
+- [Marcos Moura](https://www.linkedin.com/in/marcos-moura-22238b105)
+- Daniel Fontana (Revisão do Inglês)
 
 ### Referências ###
 
-   - [Arduino](https://www.arduino.cc/)
-  
-   - [Ficha de dados Transmissor e Receptor RF433Mhz Module](https://www.filipeflop.com/produto/modulo-rf-transmissor-receptor-433mhz-am/)
-  
-   - [Biblioteca VirtualWire](https://www.pjrc.com/teensy/td_libs_VirtualWire.html)
-  
-   - [Componentes](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwilr6jdi_TXAhVFgJEKHU4FA1IYABAIGgJjZQ&ohost=www.google.com.br&cid=CAESEeD2i1POhdG0cASuDiqL_N03&sig=AOD64_22oKjpmyoDaCp5BxeiXaWFfCNRVg&ctype=5&q=&ved=0ahUKEwir6Zndi_TXAhXBkpAKHaTPAzkQ9aACCDU&adurl=)
+- [Arduino](https://www.arduino.cc/)
+- [Ficha de dados Transmissor e Receptor RF433Mhz Module](https://www.filipeflop.com/produto/modulo-rf-transmissor-receptor-433mhz-am/)
+- [Biblioteca VirtualWire](https://www.pjrc.com/teensy/td_libs_VirtualWire.html)
+- [Componentes](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwilr6jdi_TXAhVFgJEKHU4FA1IYABAIGgJjZQ&ohost=www.google.com.br&cid=CAESEeD2i1POhdG0cASuDiqL_N03&sig=AOD64_22oKjpmyoDaCp5BxeiXaWFfCNRVg&ctype=5&q=&ved=0ahUKEwir6Zndi_TXAhXBkpAKHaTPAzkQ9aACCDU&adurl=)
