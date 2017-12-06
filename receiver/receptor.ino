@@ -1,6 +1,6 @@
 #include <VirtualWire.h>
 
-char data_receive[16]; 
+char data_receive[16];
 
 void setup()
 {
@@ -17,14 +17,14 @@ void loop()
 
     if (vw_get_message(buf, &buflen)) // Non-blocking
     {
-        int i;      
+        int i;
         digitalWrite(13, true); // Flash a light to show received good message
         // Message with a good checksum received, dump it.
         for (i = 0; i < buflen; i++)
         {
             data_receive[i] = char(buf[i]);
             //Serial.print(buf[i]);
-            Serial.println(data_receive);
+            Serial.println(data_receive, HEX);
         }
         digitalWrite(13, false);
     }

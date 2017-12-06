@@ -40,11 +40,7 @@ Utilizei a biblioteca VirtualWire para facilitar a implementação do ** Módulo
 
 ### RF433mhz Module
 
-Abaixo você encontra as informações que você precisa sobre o módulo RF433Mhz.
-
-**Pinos do módulo transmissor:**
-
-Em breve...
+Você encontra as informações que você precisa sobre o módulo RF433Mhz clicando [aqui](https://www.filipeflop.com/produto/modulo-rf-transmissor-receptor-433mhz-am/)
 
 ### Créditos para este projeto
 
