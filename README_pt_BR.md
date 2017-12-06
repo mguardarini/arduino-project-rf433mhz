@@ -34,8 +34,8 @@ Utilizei a biblioteca VirtualWire para facilitar a implementação do ** Módulo
 - 1 - Módulo transmissor-receptor RF 433Mhz;
 - 2 - Bateria 9V (Opcional);
 - 2 - Adaptador de Bateria (Opcional);
-- 1 - Resistor de 220 Ohms;
-- 1 - LED PTH
+- 1 - Resistor de 220 Ohms (Optional);
+- 1 - LED PTH (Optional);
 - 12 - Jumpers;
 
 ### RF433mhz Module
