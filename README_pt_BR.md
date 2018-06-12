@@ -52,9 +52,6 @@ Este projeto é o resultado de um esforço de cooperação global por parte de m
 
 - Google
 - Prof. Carlos Fabri
-- Gabriel Novaes Pessigello
-- [Marcos Moura](https://www.linkedin.com/in/marcos-moura-22238b105)
-- Daniel Fontana (Revisão do Inglês)
 
 ### Referências ###
 
