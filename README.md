@@ -52,9 +52,6 @@ This project is the result of a global cooperative effort on the part of many pa
 
  - Google;
  - Prof. Carlos Fabri
- - Gabriel Novaes Pessigello
- - [Marcos Moura](https://www.linkedin.com/in/marcos-moura-22238b105)
- - Daniel Fontana (English Revision)
 
 ### References ###
 
